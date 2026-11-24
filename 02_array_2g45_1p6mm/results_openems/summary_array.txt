@@ -1,0 +1,1 @@
+array: S11min -29.4 dB @ 2.4490 GHz, BW 75 MHz, S11@2.45 -28.88 dB, Dmax 10.19 dBi, eff 41 %, gain 6.32 dBi

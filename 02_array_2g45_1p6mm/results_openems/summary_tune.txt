@@ -1,0 +1,7 @@
+openEMS element tuning (80 x 100 mm half board, mesh 0.6 mm in-plane, 4 cells in 1.6 mm FR4):
+  L 28.81 inset 8.85 -> S11 -26.2 dB @ 2.421 GHz (analytic start)
+  L 28.47 inset 8.75 -> S11 -25.4 dB @ 2.446 GHz, BW 61 MHz
+Mesh check, same element at 0.4 mm: S11 -24.1 dB @ 2.454 GHz (+8 MHz, 0.3 %)
+Full array 160 x 100 mm:
+  L 28.47 inset 8.75 -> S11 -29.3 dB @ 2.426 GHz
+  L 28.19 inset 8.66 -> S11 -29.4 dB @ 2.449 GHz, -10 dB 2.411-2.486 GHz, Dmax 10.2 dBi, eff 41 %, gain 6.3 dBi

@@ -1,0 +1,5 @@
+[bare] f_res = 2.6170 GHz, S11_min = -20.63 dB, -10 dB BW = 42.0 MHz
+[copper] f_res = 2.6130 GHz, S11_min = -21.25 dB, -10 dB BW = 43.0 MHz
+Delta f_res (copper - bare) = -4.0 MHz
+[bare] peak GainTotal = -0.54 dBi, peak RealizedGain = -7.32 dBi (@ 2.45 GHz)
+[copper] peak GainTotal = -0.55 dBi, peak RealizedGain = -7.23 dBi (@ 2.45 GHz)
